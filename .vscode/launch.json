@@ -1,0 +1,65 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "youtubedart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "youtubedart (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "youtubedart (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "downloadfromlink",
+            "cwd": "example\\downloadfromlink",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "downloadfromlink (profile mode)",
+            "cwd": "example\\downloadfromlink",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "downloadfromlink (release mode)",
+            "cwd": "example\\downloadfromlink",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "video_download",
+            "cwd": "example\\video_download",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "video_download (profile mode)",
+            "cwd": "example\\video_download",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "video_download (release mode)",
+            "cwd": "example\\video_download",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
